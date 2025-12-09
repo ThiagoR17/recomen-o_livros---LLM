@@ -7,8 +7,11 @@
 * **Criação de uma aplicação web usando Gradio** para que os usuários obtenham recomendações de livros (código no arquivo `gradio-dashboard.py`).
 
 ---
+<img width="1919" height="924" alt="Captura de tela 2025-12-08 213752" src="https://github.com/user-attachments/assets/1569d29d-9dfc-4c6e-b5f3-c15e9a8f7311" />
 
 Este projeto foi inicialmente criado em **Python 3.13**. Para rodar o projeto, as seguintes **dependências são requeridas**:
+
+
 
 * `kagglehub`
 * `pandas`
